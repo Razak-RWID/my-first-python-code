@@ -1,2 +1,5 @@
 Leader: Razak
-Staff: Abdul
+Staff Humas: Abdul
+Staff Keamanan : Denikit
+Staff Publikasi: Nurin
+Staff Keuangan: Aulia
